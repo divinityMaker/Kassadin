@@ -1,0 +1,24 @@
+{
+  "name": "kassadin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/divinitymaker/Kassadin.git"
+  },
+  "author": "Maker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/divinitymaker/Kassadin/issues"
+  },
+  "homepage": "https://github.com/divinitymaker/Kassadin#readme",
+  "devDependencies": {
+    "electron": "^22.0.0",
+    "electron-reload": "^2.0.0-alpha.1"
+  }
+}
